@@ -1,5 +1,9 @@
 ### ecommerce-FinalProject
 
+### Demo:
+
+https://github.com/user-attachments/assets/6bffd647-a027-4b22-9362-23a36f8afc6e
+
 ### Requirements Gathering:
 
 Data Requirements:
